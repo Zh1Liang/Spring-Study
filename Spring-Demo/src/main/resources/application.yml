@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: Spring-Study
+aaa:
+  age: ${age:999}
+server:
+  port: 8080
