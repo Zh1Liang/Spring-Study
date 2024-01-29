@@ -4,4 +4,4 @@ spring:
 aaa:
   age: ${age:999}
 server:
-  port: 8080
+  port: ${porttest:8080}

@@ -12,7 +12,8 @@ import org.springframework.stereotype.Component;
 @Component
 public class Values {
 
-    @Value("${name}")
+
+
     private String name;
 
     public String getName() {

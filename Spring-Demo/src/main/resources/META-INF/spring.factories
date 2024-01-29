@@ -1,2 +1,4 @@
 org.springframework.cloud.bootstrap.BootstrapConfiguration=\
   Zh1.Liang.srpng.demo.config.ConfigmapLocator
+org.springframework.context.ApplicationContextInitializer=\
+  Zh1.Liang.srpng.demo.init.TestApplicationContextInitializer
