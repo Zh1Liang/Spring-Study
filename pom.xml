@@ -11,6 +11,7 @@
     <modules>
         <module>Spring-Demo</module>
         <module>Spring-Knowledge</module>
+        <module>Sping-Framework-Study</module>
     </modules>
 
     <dependencies>
