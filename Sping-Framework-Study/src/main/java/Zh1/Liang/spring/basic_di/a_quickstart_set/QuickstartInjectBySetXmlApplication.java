@@ -1,7 +1,7 @@
-package Zh1.Liang.spring.basic_di;
+package Zh1.Liang.spring.basic_di.a_quickstart_set;
 
-import Zh1.Liang.spring.basic_di.bean.Cat;
-import Zh1.Liang.spring.basic_di.bean.Person;
+import Zh1.Liang.spring.basic_di.a_quickstart_set.bean.Cat;
+import Zh1.Liang.spring.basic_di.a_quickstart_set.bean.Person;
 import org.springframework.beans.factory.BeanFactory;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
